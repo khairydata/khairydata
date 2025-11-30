@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedKhairy&style=flat&color=orange)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khairy-5aa9b92a4/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/yourTelegram)
+
 
 </div>
 
